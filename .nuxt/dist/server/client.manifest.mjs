@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Shakhboz%20Shodiev/Desktop/VueChat/VueChatBot/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
